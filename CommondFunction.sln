@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommondFunction", "CommondFunction\CommondFunction.csproj", "{91593A20-27DA-481E-93C2-244C3808E50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommondFunctionTests", "CommondFunctionTests\CommondFunctionTests.csproj", "{E908FD5F-2427-4B43-A395-D9FFAE1B122D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91593A20-27DA-481E-93C2-244C3808E50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91593A20-27DA-481E-93C2-244C3808E50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91593A20-27DA-481E-93C2-244C3808E50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91593A20-27DA-481E-93C2-244C3808E50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E908FD5F-2427-4B43-A395-D9FFAE1B122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E908FD5F-2427-4B43-A395-D9FFAE1B122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E908FD5F-2427-4B43-A395-D9FFAE1B122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E908FD5F-2427-4B43-A395-D9FFAE1B122D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260E72DF-9E02-4AE6-9541-270069DED517}
+	EndGlobalSection
+EndGlobal
